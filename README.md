@@ -99,13 +99,6 @@ Our team is building a six-phase end-to-end data science pipeline that leverages
 - Estimated ROI of **X%** for initial fleet deployment in high-need tracts
 - Social ROI: Potential to serve **X+ ambulatory-difficulty residents** with improved mobility access
 
----
-```
-
----
-
-
----
 
 ## 📬 Contact
 
