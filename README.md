@@ -100,45 +100,10 @@ Our team is building a six-phase end-to-end data science pipeline that leverages
 - Social ROI: Potential to serve **X+ ambulatory-difficulty residents** with improved mobility access
 
 ---
-
-## 📁 Repository Structure
-
-```
-robotaxi-service-gap-nyc/
-│
-├── data/
-│   ├── raw/                    # Raw NYC TLC, Census, MTA data
-│   └── processed/              # Cleaned and merged datasets
-│
-├── notebooks/
-│   ├── 01_data_preparation.ipynb
-│   ├── 02_market_segmentation.ipynb
-│   ├── 03_target_classification.ipynb
-│   ├── 04_geospatial_strategy.ipynb
-│   ├── 05_predictive_forecasting.ipynb
-│   └── 06_roi_sensitivity_analysis.ipynb
-│
-├── src/
-│   ├── clustering.py
-│   ├── classification.py
-│   ├── geospatial.py
-│   ├── forecasting.py
-│   └── roi_calculator.py
-│
-├── outputs/
-│   ├── maps/                   # Folium heatmaps
-│   └── figures/                # Charts and visualizations
-│
-├── requirements.txt
-└── README.md
 ```
 
 ---
 
-## 👥 Team
-
-- **Prateeksha Mehta** – Data Pipeline, Clustering, ROI Modeling, Sensitivity Analysis
-- Team collaboration across all 6 phases
 
 ---
 
